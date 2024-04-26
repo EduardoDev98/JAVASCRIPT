@@ -5,7 +5,7 @@ function convertValues() {
 
   const currencyValueToConvert = document.querySelector(
     ".currency-value-to-convert"
-  ); //valor em real
+  ); //valor em real.
 
   const currencyValueConverted = document.querySelector(".currency-value"); // outras moedas
   const dolarToday = 5.2;
